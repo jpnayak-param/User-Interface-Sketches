@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "143341E2-0A82-4046-B74C-D6F1329443C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "267BCC45-7161-46F6-BFA9-6B2AAFF25B39",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D21FC332-7628-4EF0-9CBE-9F73BE169E74",
+    "height": 38,
+    "width": 243,
+    "x": 85,
+    "y": 157
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CAA75433-8A58-450D-930C-C760AB20382C"
+    },
+    {
+      "class": "group",
+      "id": "BD5D70BF-A479-45E5-84DB-971538B5A4BC"
+    },
+    {
+      "class": "text",
+      "id": "84E5516C-048B-4DB0-A44F-9D0A432F63DD"
+    },
+    {
+      "class": "group",
+      "id": "542AD3C0-57E7-4C78-A1A4-97F05DD3E166"
+    }
+  ],
+  "name": "switch",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B2B6B76-0742-4EED-B4DA-94BD4DA7C68B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

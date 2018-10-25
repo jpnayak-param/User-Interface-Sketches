@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "EE10EFD3-F117-4238-8BBD-C938E554DFFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1F55930-5A4E-48FF-AD9F-3CE770F3F12E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C01154D-EB0F-455B-9AA7-DB8B078CA316",
+    "height": 37,
+    "width": 220,
+    "x": 482,
+    "y": 562
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8332A8B9-FE0C-4733-9240-13DD1636DEC9"
+    },
+    {
+      "class": "group",
+      "id": "C6BC7C5F-4736-4BE9-9CEC-A103E7A7DFAB"
+    },
+    {
+      "class": "group",
+      "id": "43758442-0B1B-4918-A536-BF455B7FAB18"
+    }
+  ],
+  "name": "send buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2FAC61D3-E297-4368-AA96-5532D0F8AB4D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

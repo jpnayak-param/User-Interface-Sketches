@@ -1,0 +1,87 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0.5}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9764705882352941,
+              "green": 0.9568627450980391,
+              "red": 0.9450980392156862
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0.5011322463768116,
+              "blue": 0.9764705882352941,
+              "green": 0.9568627450980391,
+              "red": 0.9450980392156862
+            },
+            "position": 0.6784456286127167
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0,
+              "blue": 0.9764705882352941,
+              "green": 0.9568627450980391,
+              "red": 0.9450980392156862
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 0.5}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "3E1DF7F7-5D48-4C8D-A55B-24F8A660B5CE",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
+  },
+  "pages": [
+    "finally",
+    "Page 1",
+    "Page 2"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

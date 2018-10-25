@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "A76A06DB-CBC8-4B2E-9CBA-F0ADB3984E55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29D4467D-6DA9-48E7-9615-A3985071B301",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F667A922-DDED-45C9-9716-9519A9867583",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "55764531-E6E6-4B98-B5F8-40A5D7EFAA56"
+    }
+  ],
+  "name": "ic_inbox",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DC3EF89-F49D-41C2-A9EF-B8E678C2B3A1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
